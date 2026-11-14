@@ -1,4 +1,5 @@
-## Hi there 👋
+## 你好！我是陈佳怡，是一名西安电子科技大学软件工程专业的学生。我现在正在学习开源软件开发实践课程。本学期目标：理解开源项目如何运转，完成一次规范贡献。
+## 希望建立的习惯：记录问题、阅读文档、尊重许可证。
 
 <!--
 **apple-core28/apple-core28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
